@@ -1,7 +1,2 @@
 #!/bin/bash
 su betty
-
-clear
-pc@DESKTOP-QPNARP6 MINGW64 ~/alx-system_engineering-devops/0x01-shell_permissions (main)
-
-clear
